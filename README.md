@@ -1,6 +1,6 @@
 [![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://i.postimg.cc/13HcS9Kh/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://postimg.cc/188Nc1TJ)
 
-# 💫 Hi 👋 I’m Harsh Patel:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8F%8C%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F+Hi+%F0%9F%91%8B+I%E2%80%99m+Harsh+Patel)](https://git.io/typing-svg)
 
 
 
