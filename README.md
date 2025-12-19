@@ -7,11 +7,6 @@
 
 
 
-
-
-
-
-
 ## 🌐  Let's Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/killergaming7722) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-patel-715337363) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarshPatel8987) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshjpatelo2005@gmail.com) 
 
@@ -27,6 +22,19 @@ Cloud:
 Tools:
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![GitLens](https://img.shields.io/badge/GitLens-F05033?style=for-the-badge&logo=git&logoColor=white)![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+## 📊 GitHub Analytics  
+<p align="center">
+<a href="https://github.com/harsh5d5">
+
+</a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh5d5&theme=radical" />
+</p>
+
+---
 
 # 📊 GitHub Stats:
 
