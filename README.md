@@ -2,7 +2,7 @@
  # Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=056AFFFF&size=30&center=true&vCenter=true&width=550&height=80&lines=I'm+Harsh+Patel;Software+Engineer;Open+Source+AI%2FML+Developer;Nice+to+meet+you..!)](https://git.io/typing-svg)
 <p align="center">
-<img src=https://komarev.com/ghpvc/?username=harsh5d5 alt=harsh5d5 />
+<img src=https://komarev.com/ghpvc/?username=harsh5d5 alt=harsh5d5 /> 
 </p> <br>
 
 
