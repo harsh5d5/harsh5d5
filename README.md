@@ -25,7 +25,7 @@ Tools:
 
 ## 📊 GitHub Analytics  
 <p align="center">
-<a href="https://github.com/harsh5d5">
+<a href="https://github.com/">
 
 </a>
 </p>
